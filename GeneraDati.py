@@ -296,7 +296,7 @@ def Generate(dataset_path, subject_no, folder, window_length_seconds, overlapp, 
 
 def main():
 
-    dataset_path = '/Users/nicolamuraro/Desktop/TESI/data_preprocessed_python/'
+    dataset_path = ''
 
     if(dataset_path != ''):
         genData = True
